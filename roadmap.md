@@ -1,0 +1,4 @@
+- [ ] Replace mock data and API conditionals with the specified authenticated HTTP client and backend-shaped types.
+- [ ] Connect auth, cases, documents, search, dashboard, audit, users, and blockchain screens to the backend.
+- [ ] Add real upload progress, downloads, verification, anchor polling/retry, and audit pagination.
+- [ ] Validate tests, preview build logs, and route metadata; commit the completed changes.
