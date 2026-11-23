@@ -208,10 +208,3 @@ This is a prototype. Be aware of the following:
 - OCR for scanned documents
 - Deployment guide for a permissioned chain
 
-## Team
-
-`<names>` · `<college>` · Guided by `<guide>`
-
-## License
-
-`<add a license, e.g. MIT, or "All rights reserved">`
